@@ -1,0 +1,17 @@
+.Head{
+    font-size: 30px;
+}
+.Note{
+    color: Red;
+}
+.BoxContainer{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+margin-top: 150px;
+border: 2px solid black;
+border-radius: 20px;
+
+}
